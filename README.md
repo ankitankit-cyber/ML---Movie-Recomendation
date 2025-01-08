@@ -25,7 +25,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/movie-recommendation-system.git
+git clone https://github.com/ankitankit-cyber/ML---Movie-Recomendation.git
 Navigate to the project directory:
 bash
 Copy code
